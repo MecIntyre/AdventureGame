@@ -1,0 +1,12 @@
+﻿20.12.2019
+----------
+
+Diese Version entspricht dem GitHub-Checkout vom:
+
+	31.05.2018
+	
+jedoch aktualisiert/migriert auf Unity 2019.2.14f1.
+
+Die aktuellste Version findest Du im offiziellen GitHub-Repository:
+https://github.com/Unity-Technologies/2d-extras
+(Zeitweise unerreichbar, da von Unity während der Weiterentwicklung immer mal wieder auf privat eingestellt.)
